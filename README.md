@@ -124,6 +124,8 @@ That’s a **fantastic goal** — and super smart 🎯. You're absolutely right:
 ---
 
 Would you like help finding **job listings right now** that match the **first or second phase** of your roadmap (cloud or data-focused roles in Canada or U.S.)? I can pull live opportunities for you!
+
+
 Absolutely! Here's a **personalized learning roadmap** designed for **you** — someone with a background and passion in software development, now transitioning to a **cloud-based Data Scientist** role, while also modernizing your dev skills to support that journey. 🌐📊💻
 
 ---
